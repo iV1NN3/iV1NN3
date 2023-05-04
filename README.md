@@ -1,16 +1,21 @@
-### Hi there 👋
+# Oláa!!
 
-<!--
-**iV1NN3/iV1NN3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Criado para me apresentar ☺
 
-Here are some ideas to get you started:
+Sou o **Vinne**!<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Um novo usuário do **GitHub** 🤩<br>
+
+-Sou do ***Brasil.***<br>
+
+>Estou no início da minha carreira como ***desenvolvedor de jogos Multiplataformas.*** 🎮🕹<br>
+>
+>Curiosidades aleatórias sobre mim:
+>
+>>- Amo animes (**One Piece** é o meu favorito!!!🏴‍☠️)
+>>
+>>- ***Não gosto de saladas e legumes.*** 🤢
+>>
+>>- Sou **APAIXONADO** por churrasco. 🍖🍗🥩
+>>
+>>- Odeio ser acordado, independente do ***motivo.*** 🤯
