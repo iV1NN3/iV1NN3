@@ -2,7 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-a09772208/)
 
-![iV1NN3 GitHub stats](https://github-readme-stats.vercel.app/api?username=iV1NN3&show_icons=true&theme=dark)<br>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=iV1NN3&show_icons=true&theme=dark" alt="iV1NN3 GitHub stats" width="510" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iV1NN3&theme=dark" alt="Top Langs" width="310" />
+</div>
+
 
 ## Tecnologias que uso no meu dia-a-dia
 
