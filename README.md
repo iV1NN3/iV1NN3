@@ -1,7 +1,6 @@
 # Oláa !! Sou o **Vinne**!🖐️<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-a09772208/)
-
 <a href="mailto:vinicius.vinniss@gmail.com" target="_blank" style="display:inline-block; background-color:#D14836; color:#ffffff; padding:10px 20px; text-decoration:none; border-radius:4px; font-weight:bold;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" style="vertical-align:middle;" Enviar e-mail> 
 </a>
