@@ -2,6 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-a09772208/)
 
+<a href="mailto:vinicius.vinniss@gmail.com" target="_blank" style="display:inline-block; background-color:#D14836; color:#ffffff; padding:10px 20px; text-decoration:none; border-radius:4px; font-weight:bold;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" style="vertical-align:middle;" Enviar e-mail> 
+</a>
+
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=iV1NN3&show_icons=true&theme=dark" alt="iV1NN3 GitHub stats" width="510" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iV1NN3&theme=dark" alt="Top Langs" width="310" />
@@ -15,7 +19,6 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div><br>
 
