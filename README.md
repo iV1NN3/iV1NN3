@@ -5,12 +5,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" style="vertical-align:middle;" Enviar e-mail> 
 </a>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iV1NN3&show_icons=true&theme=dark" alt="iV1NN3 GitHub stats" width="510" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iV1NN3&theme=dark" alt="Top Langs" width="310" />
-</div>
-
-
 ## Tecnologias que uso no meu dia-a-dia
 
 <div style="display: inline_block"><br/>
